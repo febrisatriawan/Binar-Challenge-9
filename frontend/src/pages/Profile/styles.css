@@ -1,0 +1,23 @@
+.edit1 {
+    border: none;
+    background: #00B4FF;
+}
+
+.edit2 {
+    border: none;
+    background: #FF0000;
+}
+
+.edit2:focus {
+    border: none;
+    background: #FF0000;
+}
+
+.edittable {
+    color: black;
+    font-weight: 500;
+}
+
+.text-white {
+    color: white
+}
